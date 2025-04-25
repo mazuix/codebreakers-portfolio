@@ -24,8 +24,8 @@ const Header = () => {
         GERVACIO, DANIELA BAYRON
       </div>
       <div className='flex gap-5'>
-        <a className='text-2xl hover:text-gray-500 duration-300' href="#"><Github size={24} /></a>
-        <a className='text-2xl hover:text-gray-500 duration-300' href="#"><Mail size={24} /></a>
+        <a className='text-2xl hover:text-gray-500 duration-300' href="https://github.com/Ellaaaaa2001"><Github size={24} /></a>
+        <a className='text-2xl hover:text-gray-500 duration-300' href="mailto:ic.daniela.gervacio@cvsu.edu.ph"><Mail size={24} /></a>
       </div>
     </header>
   )
