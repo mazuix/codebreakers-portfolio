@@ -65,10 +65,10 @@ const ProfilePage = () => {
 
         {/* Social Links */}
         <div className="flex justify-end space-x-6 pt-4 pr-6">
-          <a href="https://github.com/monoclesire" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/monoclesire" rel="noopener noreferrer">
             <Github size={24} className="text-white hover:text-red-400 transition-colors" />
           </a>
-          <a href="https://instagram.com/roryxz404" target="_blank" rel="noopener noreferrer">
+          <a href="https://instagram.com/roryxz404" rel="noopener noreferrer">
             <Instagram size={24} className="text-white hover:text-red-400 transition-colors" />
           </a>
           <a href="mailto:ic.hazelanne.bautista@cvsu" target="_blank" rel="noopener noreferrer">

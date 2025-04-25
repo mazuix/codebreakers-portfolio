@@ -95,8 +95,6 @@ function JasmineProfile() {
             <div className="flex justify-center space-x-4 mb-6">
               <a
                 href={personalInfo.github}
-                target="_blank"
-                rel="noopener noreferrer"
                 className="bg-white p-3 rounded-full shadow-md transition duration-300 hover:scale-110 border-2 border-pink-300"
               >
                 <Github size={20} className="text-pink-600" />
